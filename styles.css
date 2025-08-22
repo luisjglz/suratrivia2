@@ -219,7 +219,8 @@ h1{
     width: 100%;
 }
 
-.stImage img{
+.stImage img,
+.st-emotion-cache-8atqhb div{
     margin: 0 auto;
 }
 
