@@ -35,12 +35,14 @@ max-width: 100%;
 
 .st-emotion-cache-1umgz6k:focus:not(:active),
 .st-emotion-cache-iyz50i:focus:not(:active),
+.st-emotion-cache-5qfegl:focus:not(:active),
 .st-emotion-cache-xkcexs:focus:not(:active) {
     border-color: #00aec7;
     color: #00aec7;
 }
 .st-emotion-cache-1umgz6k:hover,
 .st-emotion-cache-iyz50i:hover,
+.st-emotion-cache-5qfegl:hover,
 .st-emotion-cache-xkcexs:hover {
     border-color: #00aec7;
     color: #00aec7;
@@ -48,6 +50,7 @@ max-width: 100%;
 
 .st-emotion-cache-1umgz6k:active,
 .st-emotion-cache-iyz50i:active,
+.st-emotion-cache-5qfegl:active,
 .st-emotion-cache-xkcexs:active {
     color: rgb(255, 255, 255);
     border-color: #00aec7;
@@ -65,7 +68,8 @@ h1{
 .st-emotion-cache-10fz3ls p,
 .st-emotion-cache-187vdiz p,
 .st-emotion-cache-10c9vv9 p,
-.st-emotion-cache-1hyd1ho p{
+.st-emotion-cache-1hyd1ho p,
+.st-emotion-cache-17c7e5f p,{
     font-size: 32px;
     font-weight: bold;
 }
@@ -218,6 +222,7 @@ h1{
     color: white;
 }
 
+.st-emotion-cache-gf1xsr h1,
 #c2b279d9{
     padding-left: 20px;
     margin-bottom: 20px;
@@ -227,6 +232,7 @@ h1{
     margin-bottom: 20px;
 }
 
+.st-emotion-cache-zy6yx3,
 .st-emotion-cache-t1wise {
     padding-left: 1rem;
     padding-right: 1rem;
