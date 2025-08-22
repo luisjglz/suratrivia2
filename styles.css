@@ -1,0 +1,235 @@
+.stDeployButton, header, .viewerBadge_link__qRIco, .viewerBadge_container__r5tak styles_viewerBadge__CvC9N {
+    visibility: hidden !important;
+    display: none !important;
+}
+
+
+.st-emotion-cache-z5fcl4 {
+width: 100%;
+padding: 0rem 1rem 10rem;
+max-width: 100%;
+}
+
+.main-title{
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0;
+    text-align: center;
+    background-color: #2d6df6;
+    color: white !important;
+    border-radius: 0px;
+}
+
+/* Local class */
+.st-emotion-cache-l9bjmx p,
+/* Streamlit class */
+.st-emotion-cache-1whx7iy p,
+.st-emotion-cache-br351g p,
+.st-emotion-cache-89jlt8 p {
+    font-size: 24px;
+}
+
+.st-emotion-cache-r421ms{
+    border-radius: 0;
+}
+
+.st-emotion-cache-1umgz6k:focus:not(:active),
+.st-emotion-cache-iyz50i:focus:not(:active),
+.st-emotion-cache-xkcexs:focus:not(:active) {
+    border-color: #00aec7;
+    color: #00aec7;
+}
+.st-emotion-cache-1umgz6k:hover,
+.st-emotion-cache-iyz50i:hover,
+.st-emotion-cache-xkcexs:hover {
+    border-color: #00aec7;
+    color: #00aec7;
+}
+
+.st-emotion-cache-1umgz6k:active,
+.st-emotion-cache-iyz50i:active,
+.st-emotion-cache-xkcexs:active {
+    color: rgb(255, 255, 255);
+    border-color: #00aec7;
+    background-color: #00aec7;
+}
+
+h1{
+    max-width: 100%;
+    background-color: #0033a0;
+    margin-left: 0%;
+    padding-left: 20px;
+    color: white !important;
+}
+
+.st-emotion-cache-10fz3ls p,
+.st-emotion-cache-187vdiz p,
+.st-emotion-cache-10c9vv9 p,
+.st-emotion-cache-1hyd1ho p{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.st-emotion-cache-eqffof p,
+.st-emotion-cache-1104ytp p,
+.st-emotion-cache-uzeiqp p,
+.st-emotion-cache-16tyu1 p{
+    font-size: 26px !important;
+    font-weight: bold;
+}
+
+.st-emotion-cache-us3b1e .eyeqlp50 {
+    position: relative;
+    top: 10px;
+}
+
+.st-emotion-cache-eczf16{
+    display: none;
+}
+
+.st-emotion-cache-7ym5gk,
+.st-emotion-cache-1vt4y43{
+    color: black;
+}
+
+.st-emotion-cache-7ym5gk:hover,
+.st-emotion-cache-1vt4y43:hover,
+.st-emotion-cache-ocsh0s:hover,
+.st-emotion-cache-ocsh0s:hover
+{
+    border-color: #e3e829;
+    color: black;
+}
+
+.st-c1,.st-c0,.st-bz,.st-by{
+    border-color: #e3e829;
+}
+
+.st-emotion-cache-7ym5gk:active,
+.st-emotion-cache-7ym5gk:focus:not(:active),
+.st-emotion-cache-7ym5gk:focus,
+.st-emotion-cache-ocsh0s:active,
+.st-emotion-cache-ocsh0s:focus:not(:active),
+.st-emotion-cache-ocsh0s:focus,
+.st-emotion-cache-1vt4y43:active,
+.st-emotion-cache-1vt4y43:focus:not(:active),
+.st-emotion-cache-1vt4y43:focus{
+    background-color: #e3e829;
+    color: white;
+    border-color: #e3e829;
+}
+
+.tabla{
+    width: 100%;
+    font-size: 20px;
+    margin-top: -16px;
+    border-collapse: collapse;
+}
+
+.tablah tr th{
+    background-color: #0033A0;
+    color: white;
+    font-size: 28px;
+}
+
+.tabla tr th,
+.tabla tr td{
+    width: 15%;
+    padding-left: 8px;
+}
+
+.tabla tr th:nth-child(2),
+.tabla tr td:nth-child(2){
+    width: 40%;
+}
+
+.tabla tr th:nth-child(4),
+.tabla tr td:nth-child(4){
+    width: 25%;
+}
+
+.tabla tr th:nth-child(1),
+.tabla tr td:nth-child(1){
+    width: 5%;
+}
+
+.tabla tr.par{
+    background-color: #c9d1e8;
+}
+
+.tabla tr.non{
+    background-color: #fbf9fa;
+}
+
+.leaderboard{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+#text_input_1,
+#text_input_2{
+    font-size: 30px;
+}
+
+h1{
+    padding-left: 0;
+}
+.st-emotion-cache-zt5igj{
+    width: 100%;
+    left: 0;
+}
+.st-emotion-cache-10trblm{
+    /* margin-left: 0; */
+}
+
+.st-emotion-cache-gi0tri{
+    display: none;
+}
+
+.st-emotion-cache-asc41u h1{
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+
+.st-emotion-cache-4uzi61{
+    border-radius: 0;
+}
+
+.block-container{
+    padding-top: 0;
+}
+
+/* div[data-stale="true"] {
+    display: none;
+  } */
+
+.st-emotion-cache-xhkv9f{
+    width: 100%;
+}
+
+.stImage img{
+    margin: 0 auto;
+}
+
+.st-emotion-cache-1104ytp h1{
+    color: white;
+}
+
+#c2b279d9{
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.e121c1cl2{
+    margin-bottom: 20px;
+}
+
+.st-emotion-cache-t1wise {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
