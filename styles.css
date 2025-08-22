@@ -25,7 +25,8 @@ max-width: 100%;
 /* Streamlit class */
 .st-emotion-cache-1whx7iy p,
 .st-emotion-cache-br351g p,
-.st-emotion-cache-89jlt8 p {
+.st-emotion-cache-89jlt8 p,
+.st-emotion-cache-ne3lcw p {
     font-size: 24px;
 }
 
@@ -176,7 +177,9 @@ h1{
 }
 
 #text_input_1,
-#text_input_2{
+#text_input_2,
+#text_input_16,
+#text_input_17{
     font-size: 30px;
 }
 
